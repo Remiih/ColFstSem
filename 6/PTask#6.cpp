@@ -4,9 +4,7 @@ using namespace std;
 
 int main()
 {
-    string itemCode;
-    int numItem;
-    float itemPrice;
+    string itemCode; int numItem; float itemPrice;
     cout << "Input Item Code: ";
     cin >> itemCode;
     cout << "Input No. of Items: ";

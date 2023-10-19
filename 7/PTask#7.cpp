@@ -9,5 +9,4 @@ int main()
     cin >> seconds;
     cout << "\nThe time in minute(s) is: " << seconds/60 << " minutes";
     cout << "\nThe time in second(s) is: " << seconds%60 << " seconds";
-
 }

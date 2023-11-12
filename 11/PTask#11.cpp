@@ -31,5 +31,4 @@ int main()
             continue;
         } cout << "7000\n";
     }
-    
 }
